@@ -34,6 +34,13 @@ My goal is to elevate user experiences and deliver maintainable, clean code that
 
 ---
 
+<h2>🛠️ My Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,docker,figma,vscode" />
+</p>
+
+---
+
 ## 📫 Get in Touch
 - 📧 Email: leilasedighbakhshayesh@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/leila-bakhshayesh-190299344)  
