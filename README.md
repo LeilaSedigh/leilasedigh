@@ -45,6 +45,3 @@ My goal is to elevate user experiences and deliver maintainable, clean code that
 - 📧 Email: leilasedighbakhshayesh@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/leila-bakhshayesh-190299344)  
 
----
-
-> 💡 *"The code you write today shapes the future!"*
